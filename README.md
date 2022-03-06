@@ -1,0 +1,1 @@
+# stm32nucleof401re_30_ThermistorNTCB3950
